@@ -1,0 +1,20 @@
+li{
+    display: inline;
+    margin-left: 10%;
+    margin-top: 20px;
+    text-decoration-color: white;
+}
+h1{
+    text-align: center;
+    color: violet;
+}
+.q{
+    background-color: aqua;
+}
+.as{
+    background-color: grey;
+}
+   body{
+       background-image: url(qatar.png);
+
+   }
